@@ -10,6 +10,8 @@ A List Of Labs For People (Students) Who Want Learn OR Practice IT Security / Ha
   <dd><p>Specially developed for SQL Injection Attacks. Cover all types of SQL Injection Attacks including 65 lessons.<a  href="https://github.com/Audi-1/sqli-labs">Click Here To Download</a></p></dd>
   <dt><b>Hackazon: A Modern Vulnerable Web App</b></dt>
   <dd><p>A Live Shoping Cart With Android Application Feel Like RealWorld WebApp. This application includes RESTful interfaces that power AJAX functionality and mobile clients (JSON, XML, GwT, and AMF).<a href="https://github.com/rapid7/hackazon">Click Here To Download</a></p></dd>
+  <dt><b>XVWA - Xtreme Vulnerable Web Application</b></dt>
+  <dd><p>XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.  <a href="https://github.com/s4n7h0/xvwa">Click Here To Download</a></p></dd>
 </dl>
 <h3>More List Will Added Soon.</h3>
 
