@@ -4,8 +4,10 @@ A List Of Labs For People (Students) Who Want Learn OR Practice IT Security / Ha
 <h3><b> &rArr; Web Application Security / Hacking / Penetration Testing Labs </b></h3>
 
 <dl style="list-style-type:disc">
-  <dt><b>OWASP WebGoat</b></dt>
-  <dd><p>Cover all major Web Application Based Attacks. <a href="https://github.com/WebGoat/WebGoat">Click Here To Download</a></p></dd>
+  <dt><b>OWASP WebGoat - JAVA Based</b></dt>
+  <dd><p>JAVA Based Vulnerable Web Application. Cover all major Web Application Based Attacks. <a href="https://github.com/WebGoat/WebGoat">Click Here To Download</a></p></dd>
+  <dt><b>OWASP WebGoatPHP</b></dt>
+  <dd><p>PHP&MySql Based Vulnerable Web Application. Cover all major Web Application Based Attacks. <a href="https://github.com/shivamdixit/WebGoatPHP">Click Here To Download</a></p></dd>
   <dt><b>Audi SQLi Labs</b></dt>
   <dd><p>Specially developed for SQL Injection Attacks. Cover all types of SQL Injection Attacks including 65 lessons.<a  href="https://github.com/Audi-1/sqli-labs">Click Here To Download</a></p></dd>
   <dt><b>Hackazon: A Modern Vulnerable Web App</b></dt>
