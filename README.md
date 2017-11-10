@@ -28,4 +28,4 @@ A List Of Labs For People (Students) Who Want Learn OR Practice IT Security / Ha
 </dl>
 
 <h2>List Provided By : Harshil Patel</h2>
-<h5>Note : <pre>You think that I missed something..!!!, Don't be late, inform me, I'll add it into this list.</pre></h5>
+<h5>Note : <pre>You think that I missed something. Don't be late, inform me, I'll add it into this list.</pre></h5>
