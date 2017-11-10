@@ -26,6 +26,6 @@ A List Of Labs For People (Students) Who Want Learn OR Practice IT Security / Ha
   <dd><p>Set of the most common web vulnerabilities. Part-I is developed in PHP&MySQL and Part-II is developed in Ruby/Rack. Click Here to Download
   <a href="https://pentesterlab.com/exercises/web_for_pentester">Part-I</a> <a href="https://www.pentesterlab.com/exercises/web_for_pentester_II">Part-II</a></p></dd>
 </dl>
-<h3>More List Will Added Soon.</h3>
 
 <h2>List Provided By : Harshil Patel</h2>
+<h5> Note : You think that I missed something..!!! < /br> Don't be late ..!!!! Inform Me, I'll add it into this list.</h5>
