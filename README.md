@@ -32,6 +32,9 @@ A List Of Labs For People (Students) Who Want Learn OR Practice IT Security / Ha
   <dt><b>Vulnhub - Vulnerable By Design.</b></dt>
   <dd><p>CTF's Designed and Developed for Self Learner's By Community.
   <a href="https://www.vulnhub.com/">Click Here To Go</a></p></dd>
+   <dt><b>HTB - HackTheBox.</b></dt>
+  <dd><p>CTF's Designed and Developed for Self Learner's By Community.
+  <a href="https://www.hackthebox.eu/">Click Here To Go</a></p></dd>
 </dl>
 
 <h2>List Provided By : Harshil Patel</h2>
